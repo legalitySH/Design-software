@@ -1,0 +1,3 @@
+﻿  Varparm.cpp
+D:\FirstCourse\2sem\КПО\SE_Lab09\Varparm.cpp(43,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  SE_Lab09.vcxproj -> D:\FirstCourse\2sem\КПО\SE_Lab09\x64\Debug\SE_Lab09.exe

@@ -1,0 +1,10 @@
+﻿  10.cpp
+D:\FirstCourse\2sem\КПО\SE_Lab10\10.cpp(103,20): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\FirstCourse\2sem\КПО\SE_Lab10\10.cpp(105,20): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\FirstCourse\2sem\КПО\SE_Lab10\10.cpp(170,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\FirstCourse\2sem\КПО\SE_Lab10\10.cpp(240,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FirstCourse\2sem\КПО\SE_Lab10\10.cpp(242,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FirstCourse\2sem\КПО\SE_Lab10\10.cpp(262,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FirstCourse\2sem\КПО\SE_Lab10\10.cpp(264,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FirstCourse\2sem\КПО\SE_Lab10\10.cpp(284,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SE_Lab10.vcxproj -> D:\FirstCourse\2sem\КПО\SE_Lab10\x64\Debug\SE_Lab10.exe

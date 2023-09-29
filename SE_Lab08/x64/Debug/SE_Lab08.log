@@ -1,0 +1,3 @@
+﻿  SE_Lab08.cpp
+D:\FirstCourse\2sem\КПО\SE_Lab08\SE_Lab08.cpp(8,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  SE_Lab08.vcxproj -> D:\FirstCourse\2sem\КПО\SE_Lab08\x64\Debug\SE_Lab08.exe

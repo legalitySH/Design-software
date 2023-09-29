@@ -1,0 +1,2 @@
+D:\1 КУРС\2sem\КПО\SE_Lab06\x64\Debug\SE_Lab06.lib
+D:\FirstCourse\2sem\КПО\SE_Lab06\x64\Debug\SE_Lab06.lib

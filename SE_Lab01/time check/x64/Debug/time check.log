@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dateValidation.cpp
+  leapYear.cpp
+  numberOfDay.cpp
+  timeCheck.cpp
+D:\1 КУРС\2sem\KPO labs\01_Командная строка_Несколько файлов\time check\time check\timeCheck.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  time check.vcxproj -> D:\1 КУРС\2sem\KPO labs\01_Командная строка_Несколько файлов\time check\x64\Debug\time check.exe
